@@ -1,0 +1,5 @@
+# OS X Finder
+.DS_Store
+
+# build static html with gitbook-cli.
+_book/*
