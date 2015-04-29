@@ -2,6 +2,8 @@
 
 Need the package fo git, make, node.js, npm and gitbook-cli.
 
+![My private GitBook](images/my-private-gitbook.png)
+
 ## Setup
 
 1. Install node.js and npm package.
