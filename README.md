@@ -68,6 +68,7 @@ Get *MyBook* with git.
 
 ## Reference
 
+- [GitBook 中文解說 - 2.0 搶先預覽 - GitBook](https://www.gitbook.com/book/wastemobile/gitbook-chinese/details)
 - [GitbookIO/gitbook-cli | GitHub](https://github.com/GitbookIO/gitbook-cli)
 - [深入淺出 GitBook 寫作與自助出版，電子書也能多人協作 by lyhcode | CodeData](http://www.codedata.com.tw/social-coding/gitbook-self-publishing/)
 - [gitbook | npm](https://www.npmjs.com/package/gitbook)
