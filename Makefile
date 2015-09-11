@@ -21,4 +21,5 @@ update:
 	git pull origin develop
 
 clean:
-	-rm -rf _book/
+	-rm -rf _book/ _books/ book.epub book.mobi book.pdf
+
