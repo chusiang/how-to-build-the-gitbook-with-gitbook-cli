@@ -1,5 +1,15 @@
-# OS X Finder
+# temp file.
 .DS_Store
+*.swp
+*.zip
+*.bak
 
-# build static html with gitbook-cli.
-_book/*
+# node.js modules.
+node_modules/
+
+# generator file with build.
+_books/
+_book/
+book.epub
+book.mobi
+book.pdf
