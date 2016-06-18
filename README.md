@@ -12,16 +12,21 @@ Need the package fo git, make, node.js, npm and gitbook-cli.
         $ brew install node npm
 
         # Ubuntu.
-        $ apt-get install nodejs npm
+        $ sudo apt-get install nodejs npm
 
 1. Install gitbook-cli package.
 
         $ sudo npm install -g gitbook-cli
 
+1. Install necessary package with npm.
+
+        $ gitbook install
+
 1. Check version.
 
-        $ sudo gitbook -V
-        0.3.3
+        $ gitbook -V
+        CLI version: 2.3.0
+        GitBook version: 3.1.1
 
 1. Install **[calibre](http://calibre-ebook.com/about)** for build pdf, epub and mobi.
 
