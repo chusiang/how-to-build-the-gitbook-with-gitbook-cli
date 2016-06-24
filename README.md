@@ -14,6 +14,14 @@ Need the package fo git, make, node.js, npm and gitbook-cli.
         # Ubuntu.
         $ sudo apt-get install nodejs npm
 
+1. Install [n](https://github.com/tj/n) with npm.
+
+        $ sudo npm install n -g
+        
+1. Downgrade node.js to v5.12.0. (see [Build error with node v6 · Issue #1](https://github.com/chusiang/how-to-build-the-gitbook-with-gitbook-cli/issues/1)) 
+
+        $ n 5.12.0        
+
 1. Install gitbook-cli package.
 
         $ sudo npm install -g gitbook-cli
