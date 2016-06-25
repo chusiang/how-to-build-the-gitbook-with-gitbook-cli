@@ -86,3 +86,11 @@ Get *MyBook* with git.
 - [深入淺出 GitBook 寫作與自助出版，電子書也能多人協作 by lyhcode | CodeData](http://www.codedata.com.tw/social-coding/gitbook-self-publishing/)
 - [gitbook | npm](https://www.npmjs.com/package/gitbook)
 - [Convert to PDF - Need to install ebook-convert from Calibre · Issue #333 · GitbookIO/gitbook](https://github.com/GitbookIO/gitbook/issues/333)
+
+### CI
+
+* Ansible Role: [chusiang.gitbook](https://galaxy.ansible.com/chusiang/gitbook/)
+* Docker Hub: [chusiang/gitbook](https://hub.docker.com/r/chusiang/gitbook/)
+* GitHub: [chusiang/gitbook.ansible.role](https://github.com/chusiang/gitbook.ansible.role)
+* Travis CI: [chusiang/gitbook.ansible.role](https://travis-ci.org/chusiang/gitbook.ansible.role)
+
