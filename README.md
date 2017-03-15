@@ -47,7 +47,7 @@ Need the package fo git, make, node.js, npm and gitbook-cli.
 
 Get *MyBook* with git.
 
-    $ git clone git@github.com:chusiang/how-to-build-the-gitbook-with-gitbook-cli.git
+    $ git clone https://github.com/chusiang/how-to-build-the-gitbook-with-gitbook-cli.git
 
 ## Build
 
